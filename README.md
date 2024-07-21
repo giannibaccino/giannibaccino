@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gianni Baccino
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Sofka
+- 🌱 I’m currently learning Django
 - 📫 How to reach me giannibaccino@gmail.com
 
 <!---
