@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gianni Baccino
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning React & Next.js
 - 📫 How to reach me giannibaccino@gmail.com
 
 <!---
